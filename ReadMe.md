@@ -67,6 +67,14 @@ The solver will provide a dictionary containing the best solutions found during 
 
 Feel free to explore and modify the code to suit your specific needs.
 
+## Contribution
+The contributers of this project include;
+* Bhagat, Kanav
+* Xiao, Xiao
+* Orumwese, Esosa
+* Xia, Junjie
+
+
 ## Acknowledgments
 This implementation is based on the principles of Genetic Algorithms and their application to combinatorial optimization problems. If you find this code useful, consider referencing the relevant literature on TTP and GA.
 
